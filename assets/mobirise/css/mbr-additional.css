@@ -1074,7 +1074,7 @@ a {
   color: #1d1d1b;
 }
 .cid-sRQby9NjFs .mbr-section-title {
-  color: #1d1d1b;
+  color: #1164e5;
 }
 .cid-sRQby9NjFs .mbr-section-subtitle {
   color: #ad39e7;
@@ -1111,6 +1111,9 @@ a {
 .cid-sRQbBIAVHg .card-img-top {
   width: 35px;
   height: 35px;
+}
+.cid-sRQbBIAVHg .main-sect.mbr-section-title {
+  color: #1164e5;
 }
 .cid-utlxz3y7CA {
   padding-top: 1rem;
